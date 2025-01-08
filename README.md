@@ -1,2 +1,2 @@
 # projeto-social
- Projeto realizado no Caoítulo 22 do curso de HTML e CSS do professor Gustavo Guanabara. Nele, criamos uma página que contém a interface de um celular, onde ao clicar em alguns butões, fazemos a divulgação de algumas redes sociais.
+ Project completed in Chapter 22 of the HTML and CSS course by Professor Gustavo Guanabara. In this project, we created a page that simulates a mobile phone interface, where clicking on some buttons promotes certain social media platforms.
